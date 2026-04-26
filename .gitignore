@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.env
+*.pkl
+src/models/__pycache__/
+data/__pycache__/
